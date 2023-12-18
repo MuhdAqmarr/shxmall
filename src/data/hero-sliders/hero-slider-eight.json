@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "subtitle": "",
+    "image": "/assets/img/slider/SHXmall-banner.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "subtitle": "",
+    "image": "/assets/img/slider/agro-banner.png",
+    "url": "/shop-grid-standard"
+  }
+]

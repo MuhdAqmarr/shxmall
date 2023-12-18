@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/testimonial/testi2.png",
+    "content": "I've been using this e-commerce platform for over a year now, and I couldn't be happier with the experience. The user-friendly interface makes it a breeze to navigate through products, and the checkout process is seamless. The variety of products available is impressive, and I appreciate the regular updates on new arrivals and special offers. The customer support team is responsive and always ready to assist. Overall, it's a reliable and convenient platform that has enhanced my online shopping experience.",
+    "customerName": "Sarah Johnson",
+    "title": "customer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/testimonial/testi-1.png",
+    "content": "As a small business owner, finding the right e-commerce platform was crucial for my online store. I decided to go with this platform, and it turned out to be a game-changer for my business. The intuitive dashboard simplifies inventory management, and the built-in marketing tools have helped me reach a broader audience. The secure payment gateways provide peace of mind for both me and my customers. Plus, the analytics dashboard gives valuable insights into customer behavior. Thanks to this e-commerce platform, my business has experienced significant growth, and I look forward to continuing this successful partnership.",
+    "customerName": "Alex Rodriguez",
+    "title": "Small Business Owner"
+  }
+]

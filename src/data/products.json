@@ -1,0 +1,339 @@
+[
+  {
+    "id": "1",
+    "sku": "asdf123",
+    "name": "Moving-In Package",
+    "price": 12.45,
+    "discount": 15,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 54,
+    "category": [ "Services"],
+    "tag": ["Services", "Islamic Cleansing", "Sertu", "Cleansing","BestSeller"],
+    "stock": 20,
+    "affiliateLink": "https://e-sertu.com/",
+    "image": [
+      "/assets/img/product/fashion/dibahglogo.png",
+      "/assets/img/product/fashion/dibahglogo.png",
+      "/assets/img/product/fashion/dibahglogo.png",
+      "/assets/img/product/fashion/dibahglogo.png",
+      "/assets/img/product/fashion/dibahglogo.png"
+    ],
+    "shortDescription": "Ideal for service apartments, condominiums or flat houses with an area of under 1250 square feet. The package excludes sertu for furniture items such as beds, sofas, chairs, etc and requires the house to be vacant.",
+    "fullDescription": "GLOBAL DIBAGH SDN. BHD.'s business includes PROPERTY DEVELOPMENT, CONSTRUCTION AND SAMAQ; GENERAL TRADING. Get an accurate picture of a customer's financial status with a credit report for a business. Our solutions help you minimise risk, increase sales and improve business performance."
+  },
+  {
+    "id": "2",
+    "sku": "asdf124",
+    "name": "Package B (501-1000 sqft)",
+    "price": 18.5,
+    "discount": 15,
+    "new": false,
+    "rating": 3,
+    "saleCount": 12,
+    "category": ["Services"],
+    "tag": ["Services", "Islamic Cleansing", "Sertu", "Cleansing"],
+    "affiliateLink": "https://e-sertu.com/",
+    "image": [
+      "/assets/img/product/fashion/artiq.png",
+      "/assets/img/product/fashion/artiq.png",
+      "/assets/img/product/fashion/artiq.png",
+      "/assets/img/product/fashion/artiq.png",
+      "/assets/img/product/fashion/artiq.png"
+    ],
+    "shortDescription": "Package included for rooms between 501 to 1000 sqft. This package includes the preparation of related materials and equipment, cleaning of the entire space, the process as per sharia, final update after completion and packaging.",
+    "fullDescription": "Artiq Clean brand own by ARTIQ (M) SDN BHD (Formerly know as Artiq Pro Clean Sdn Bhd offers you the strength and expertise of our cleaning solutions and services, with the state of the art cleaning technology. Backed up by this experience, we can confidently promise unparalleled solutions to meet our customer’s specific requirements, from general cleaning, to specialized waste management and hospitality services. Among our valued clients are some of the Klang Valley and State of Selangor Darul Ehsan’s notable commercial and industrial companies. Our company also serves individual households, which we serve with equal dedication, expertise and care."
+  },
+
+  {
+    "id": "3",
+    "sku": "asdf125",
+    "name": "CONCRETE CUTTER REDFOX RX-CC420T CW ENGINE",
+    "price": 17.45,
+    "discount": 40,
+    "offerEnd": "October 2, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 36,
+    "category": ["Products", "Engineering Vehicle","deals"],
+    "tag": ["Machine", "Engineering Vehicle"],
+    "stock": 1,
+    "affiliateLink": "//www.amazon.com",
+    "image": [
+      "/assets/img/product/fashion/concretecutter.png",
+      "/assets/img/product/fashion/concretecutter.png",
+      "/assets/img/product/fashion/concretecutter.png",
+      "/assets/img/product/fashion/concretecutter.png",
+      "/assets/img/product/fashion/concretecutter.png"
+    ],
+    "shortDescription": "CONCRETE CUTTER REDFOX RX-CC420T CW ENGINE, SKU56057782679094 221020",
+    "fullDescription": "Model : RX - CC 420 T, Engine : NISHIKAWA 13 HP, Blade : 400-500 mm, Blade speed : 2800 r/min, Max. cutting deepth : 160-180mm, Driving mode : Manual Push, Water tank capacity : 50 L, Net weight : 120kg"
+  },
+  {
+    "id": "4",
+    "sku": "asdf126",
+    "name": "Puma Backpack - Gray - Plain",
+    "price": 15.5,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 20,
+    "category": ["fashion", "Products","deals"],
+    "tag": ["fashion", "Bag", "lifestyle"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/PumaBagpack.png",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/PumaBagpack.png",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/PumaBagpack.png",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "affiliateLink": "https://www.trendyol.com/en/puma/backpack-gray-plain-p-736020037",
+    "image": [
+      "/assets/img/product/fashion/PumaBagpack.png",
+      "/assets/img/product/fashion/PumaBagpack.png",
+      "/assets/img/product/fashion/PumaBagpack.png",
+      "/assets/img/product/fashion/PumaBagpack.png",
+      "/assets/img/product/fashion/PumaBagpack.png"
+    ],
+    "shortDescription": "Head out and about in style with our PUMA Deck backpack, complete with enough pockets and compartments for all your daily essentials.",
+    "fullDescription": "Optimal for Everyday life. FEATURES: Reflective elements, Recycled components made from at least 20% recycled material for the step into a better future, 2 main compartments with zipper, Webbing carrying handle, Padded shoulder straps with reflective design elements, Mesh inserts at the back, Reflective design elements in front, 2 zipper pockets outside front, 2 side mesh pockets, Laptop compartment in main compartment, 47 cm x 29,5 x 14 cm (21 l)"
+  },
+  {
+    "id": "5",
+    "sku": "asdf127",
+    "name": "MERCEDES-BENZ'DEN HYDROBULL 47877 500 KG",
+    "price": 25.5,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 25,
+    "category": ["Engineering Vehicle", "Products"],
+    "tag": ["Engineering Vehicle", "Machine"],
+    "stock": 5,
+    "affiliateLink": "https://www.sahibinden.com/listing/is-makineleri-sanayi-is-makineleri-satilik-mercedes-benz-den-hydrobull-47877-500-kg-kapasiteli-vinc-1109894515/detail",
+    "image": [
+      "/assets/img/product/fashion/hydrobull.png",
+      "/assets/img/product/fashion/hydrobull.png",
+      "/assets/img/product/fashion/hydrobull.png",
+      "/assets/img/product/fashion/hydrobull.png",
+      "/assets/img/product/fashion/hydrobull.png"
+    ],
+    "shortDescription": "HYDROBULL 47877 500 KG CAPACITY GARAGE CRANE FROM MERCEDES-BENZ",
+    "fullDescription": "Model 2013, Capacity 500KG, Type YHB500KFAPO, Movable sling arm, The method of use is manual."
+  },
+  {
+    "id": "6",
+    "sku": "asdf128",
+    "name": "Baju Kebaya Mira Jaya (00005)",
+    "price": 19.85,
+    "discount": 0,
+    "offerEnd": "October 17, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 65,
+    "category": ["fashion", "Products","deals"],
+    "tag": ["fashion", "women", "dress", "long sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/BajuKebaya.png",
+        "size": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/BajuKebaya.png",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "green",
+        "image": "/assets/img/product/fashion/BajuKebaya.png",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "affiliateLink": "https://www.ejazmine.com/product/baju-kebaya-mira-jaya-00005/",
+    "image": [
+      "/assets/img/product/fashion/BajuKebaya.png",
+      "/assets/img/product/fashion/BajuKebaya.png",
+      "/assets/img/product/fashion/BajuKebaya.png",
+      "/assets/img/product/fashion/BajuKebaya.png",
+      "/assets/img/product/fashion/BajuKebaya.png"
+    ],
+    "shortDescription": "Baju Kebaya Mira Jaya (00005).",
+    "fullDescription": "Weight: 600 g"
+  },
+  {
+    "id": "7",
+    "sku": "asdf129",
+    "name": "GULAKU",
+    "price": 55.5,
+    "discount": 40,
+    "new": true,
+    "rating": 5,
+    "saleCount": 55,
+    "category": ["Agriculture", "Agro-Based","deals"],
+    "tag": ["Agriculture"],
+    "stock": 10,
+    "affiliateLink": "https://padiumkm.id/product/gulaku-kuning-gula-1-k/631cbf8f48859e961055ae57",
+    "image": [
+      "/assets/img/product/fashion/gulaku.png",
+      "/assets/img/product/fashion/gulaku.png",
+      "/assets/img/product/fashion/gulaku.png",
+      "/assets/img/product/fashion/gulaku.png",
+      "/assets/img/product/fashion/gulaku.png"
+    ],
+    "shortDescription": "Low calorie granulated sugar.",
+    "fullDescription": "Weight: 1kg"
+  },
+  {
+    "id": "8",
+    "sku": "asdf130",
+    "name": "Aqua Di Polo 1987 APWR010003 Men's Wristwatch",
+    "price": 29.85,
+    "discount": 10,
+    "offerEnd": "October 18, 2024 12:11:00",
+    "new": false,
+    "rating": 5,
+    "saleCount": 83,
+    "category": ["Products","deals"],
+    "tag": ["fashion", "lifestyle", "watch"],
+    "stock": 0,
+    "affiliateLink": "https://www.aliexpress.com/item/1005005562589026.html",
+    "image": [
+      "/assets/img/product/fashion/watch.png",
+      "/assets/img/product/fashion/watch.png",
+      "/assets/img/product/fashion/watch.png",
+      "/assets/img/product/fashion/watch.png",
+      "/assets/img/product/fashion/watch.png"
+    ],
+    "shortDescription": "Aqua Di Polo 1987 APWR010003 Men's Wristwatch.",
+    "fullDescription": "Aqua Di Polo 1987 APWR010003 Men's Wristwatch Movement / Display Type: Quartz, Dial Color: Black, Dial Shape: Round, Case Color: Black, Band Color: Black, Strap Type: Plastic / Silicone, Alarm: None, Glass: Mineral, Diameter: 50, Case Type: Plastic / Silicone, Stopwatch: For Decorative Purposes, Water Resistance: Hand Wash, Calendar: None"
+  },
+  {
+    "id": "9",
+    "sku": "asdf131",
+    "name": "fashion female top",
+    "price": 35.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 95,
+    "category": ["fashion"],
+    "tag": ["fashion", "women", "top", "sleeveless"],
+    "stock": 5,
+    "affiliateLink": "//www.amazon.com",
+    "image": [
+      "/assets/img/product/fashion/99.jpg",
+      "/assets/img/product/fashion/79.jpg",
+      "/assets/img/product/fashion/59.jpg",
+      "/assets/img/product/fashion/29.jpg",
+      "/assets/img/product/fashion/49.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }
+]
