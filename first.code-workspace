@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../react-native/first"
+		},
+		{
+			"path": "../HalalApp/VerifyHalal"
+		},
+		{
+			"path": "../HalalProduct"
+		},
+		{
+			"path": "../exomac"
+		},
+		{
+			"path": "../SHXUser"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SHXMall"
+	}
+}
